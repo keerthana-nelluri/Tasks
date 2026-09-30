@@ -1,0 +1,25 @@
+Student Registration Form - Task Description
+
+Task:
+Create a simple Student Registration Form using HTML and JavaScript.
+
+Requirements:
+1. Student Name input field
+2. Student Mobile Number input field
+3. Save button
+
+Implementation:
+- Created the registration form using HTML.
+- Added input fields for Student Name and Mobile Number.
+- Added a Save button to submit the form.
+- Used JavaScript to handle the form submission.
+- Used preventDefault() to prevent the page from refreshing.
+- Created a JavaScript object containing the Student Name and Mobile Number.
+- Displayed the submitted student details in the browser console.
+
+Purpose:
+The purpose of this task is to understand how to create a basic HTML form and handle the submitted form data using JavaScript.
+
+Files:
+- index.html - Student Registration Form
+- task.txt - Task description and implementation details
